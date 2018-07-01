@@ -1,0 +1,4 @@
+C:\Users\lluis\Source\Repos\ado visual\AdoConnection\AdoConnection\bin\Debug\AdoConnection.exe.config
+C:\Users\lluis\Source\Repos\ado visual\AdoConnection\AdoConnection\obj\Debug\AdoConnection.exe
+C:\Users\lluis\Source\Repos\ado visual\AdoConnection\AdoConnection\obj\Debug\AdoConnection.xml
+C:\Users\lluis\Source\Repos\ado visual\AdoConnection\AdoConnection\obj\Debug\AdoConnection.pdb
